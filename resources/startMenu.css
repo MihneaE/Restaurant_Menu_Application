@@ -1,0 +1,95 @@
+
+.welcome-label-v2 {
+    -fx-font-size: 50px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #4A90E2;
+}
+
+.thankYou-label {
+    -fx-font-size: 35px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #6be24a;
+}
+
+.welcome-label {
+    -fx-font-size: 35px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #afe24a;
+}
+
+.drinks-label {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #4A90E2;
+}
+
+.description-label {
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #e2ce4a;
+}
+
+.drinks2-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #e2ce4a;
+}
+
+.menu-button {
+    -fx-font-size: 20px;
+    -fx-background-color: #E94E77;
+    -fx-text-fill: #ffffff;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
+
+.menu-button:hover {
+    -fx-background-color: #D83367;
+}
+
+.alert-content-text {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: red;
+}
+
+.order-view {
+    -fx-font-size: 15px;
+    -fx-border-color: #4A90E2;
+}
+
+.menu-button:pressed {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.6), 10, 0, 0, 0);
+}
+
+.order-view-empty {
+    -fx-background-color: green;
+}
+
+.order-view-filled {
+    -fx-background-color: blue;
+}
+
+.list-cell-empty {
+    -fx-background-color: green;
+}
+
+.order-text {
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+}
+
+.header-cell {
+    -fx-background-color: purple;
+}
+
+.rest-cell {
+    -fx-background-color: #00d0ff;
+}
+
+
+
+
+
+
+
